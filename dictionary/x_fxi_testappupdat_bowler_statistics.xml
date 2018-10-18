@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="update_synch=true" extends="sys_metadata" label="Bowler Statistics" max_length="40" name="x_fxi_testappupdat_bowler_statistics" type="collection">
+        <element label="Jaffa" max_length="40" name="jaffa" type="integer"/>
+        <element label="name" max_length="40" name="name" type="string"/>
+        <element label="Yorker" max_length="40" name="yorker" type="integer"/>
+    </element>
+</database>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_fxi_testappupdat_bowler_statistics">
+    <x_fxi_testappupdat_bowler_statistics action="INSERT_OR_UPDATE">
+        <jaffa>35</jaffa>
+        <name>Kapil Dev</name>
+        <sys_class_name>x_fxi_testappupdat_bowler_statistics</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-18 16:17:21</sys_created_on>
+        <sys_id>a7e50524db992300eec05411cf961907</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Kapil Dev</sys_name>
+        <sys_package display_value="testappupdate" source="x_fxi_testappupdat">0145c1e0db992300eec05411cf9619f8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="testappupdate">0145c1e0db992300eec05411cf9619f8</sys_scope>
+        <sys_update_name>x_fxi_testappupdat_bowler_statistics_a7e50524db992300eec05411cf961907</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-18 16:17:21</sys_updated_on>
+        <yorker>100</yorker>
+    </x_fxi_testappupdat_bowler_statistics>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="yorker" label="Yorker" language="en" table="x_fxi_testappupdat_bowler_statistics">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>yorker</element>
+            <help/>
+            <hint/>
+            <label>Yorker</label>
+            <language>en</language>
+            <name>x_fxi_testappupdat_bowler_statistics</name>
+            <plural>Yorkers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-18 16:16:31</sys_created_on>
+            <sys_id>a2c58124db992300eec05411cf961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Yorker</sys_name>
+            <sys_package display_value="testappupdate" source="x_fxi_testappupdat">0145c1e0db992300eec05411cf9619f8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="testappupdate">0145c1e0db992300eec05411cf9619f8</sys_scope>
+            <sys_update_name>sys_documentation_x_fxi_testappupdat_bowler_statistics_yorker_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-18 16:16:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
